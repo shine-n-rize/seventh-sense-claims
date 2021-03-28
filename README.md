@@ -23,20 +23,20 @@ Shivani Swaraj loved to see you here!
 ## Tech Stack
 
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
-<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="50" height="50"/> 
-<img src="assets/html.gif" alt="html5" width="50" height="50"/> 
-<img src="assets/css.gif" alt="css3" width="50" height="50"/> 
-<img src="assets/bootstrap.gif" alt="bootstrap" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
-<img src="assets/git.gif" alt="git" width="100"/> 
-<img src="assets/github.webp" alt="github" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/django/django-original.svg" alt="django" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="50" height="50"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="illustrator" width="50" height="50"/>
-<img src="assets/vscode.webp" alt="vscode" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="40" height="40"/> 
+<img src="assets/html.gif" alt="html5" width="40" height="40"/> 
+<img src="assets/css.gif" alt="css3" width="40" height="40"/> 
+<img src="assets/bootstrap.gif" alt="bootstrap" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+<img src="assets/git.gif" alt="git" width="80"/> 
+<img src="assets/github.webp" alt="github" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="illustrator" width="40" height="40"/>
+<img src="assets/vscode.webp" alt="vscode" width="40" height="40"/>
 </p>
 
 
