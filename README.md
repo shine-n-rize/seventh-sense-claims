@@ -22,6 +22,7 @@ Shivani Swaraj loved to see you here!
 
 ## Tech Stack
 
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="50" height="50"/> 
@@ -36,6 +37,7 @@ Shivani Swaraj loved to see you here!
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1051px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="illustrator" width="50" height="50"/>
 <img src="assets/vscode.webp" alt="vscode" width="50" height="50"/>
+</p>
 
 
 ## Quick Stats
