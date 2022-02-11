@@ -42,8 +42,8 @@ Shivani Swaraj loved to see you here!
 
 ## Quick Stats
 
-|<a href="https://github.com/grad-date/grad-date"><img src="https://github-readme-stats.vercel.app/api?username=grad-date&hide=stars,prs&count_private=true&show_icons=true&theme=omni" alt="Shivani Swaraj's GitHub stats"></a>|<a href="https://github.com/grad-date/grad-date"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grad-date&hide=css,javascript&langs_count=6&layout=compact&theme=omni" alt="Top Languages"></a>|
-|:---:|:---:|
+<a href="https://github.com/grad-date/grad-date"><img src="https://github-readme-stats.vercel.app/api?username=grad-date&hide=stars,prs&count_private=true&show_icons=true&theme=omni" alt="Shivani Swaraj's GitHub stats"></a>
+<a href="https://github.com/grad-date/grad-date"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grad-date&hide=css,javascript&langs_count=6&layout=compact&theme=omni" alt="Top Languages"></a>
 <!-- theme=maroongold: will use someday, hp vala feel deta -->
 
 
