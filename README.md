@@ -4,7 +4,7 @@
 # Hello World! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 Shivani Swaraj loved to see you here!
 <!-- an incoming animated header -->
-![Profile Views](https://komarev.com/ghpvc/?username=grad-date)
+![Profile Views](https://komarev.com/ghpvc/?username=seventh-sense-claims)
 </div>
 
 
@@ -42,8 +42,8 @@ Shivani Swaraj loved to see you here!
 
 ## Quick Stats
 
-<a href="https://github.com/grad-date/grad-date"><img src="https://github-readme-stats.vercel.app/api?username=grad-date&hide=stars,prs&count_private=true&show_icons=true&theme=omni" alt="Shivani Swaraj's GitHub stats"></a>
-<a href="https://github.com/grad-date/grad-date"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grad-date&hide=css,javascript&langs_count=6&layout=compact&theme=omni" alt="Top Languages"></a>
+<a href="https://github.com/seventh-sense-claims/seventh-sense-claims"><img src="https://github-readme-stats.vercel.app/api?username=seventh-sense-claims&hide=stars,prs&count_private=true&show_icons=true&theme=omni" alt="Shivani Swaraj's GitHub stats"></a>
+<a href="https://github.com/seventh-sense-claims/seventh-sense-claims"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seventh-sense-claims&hide=css,javascript&langs_count=6&layout=compact&theme=omni" alt="Top Languages"></a>
 <!-- theme=maroongold: will use someday, hp vala feel deta -->
 
 
