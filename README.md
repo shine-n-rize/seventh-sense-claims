@@ -12,7 +12,7 @@ Shivani Swaraj loved to see you here!
 
 <img align="right" alt="GIF" src="assets/shinchan.gif" width="150" />
 
-- :computer: Currently Upto: Machine Learning (intermediate and learning)
+- :computer: Currently Upto: No Good XP
 - :girl: Pronouns: she/her, they/them
 - :heart: Hobbies: Finearts, Design, Reading Fictions
 - :dart: Sources of Motivation: Curiosity and Creativity
