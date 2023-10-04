@@ -13,14 +13,14 @@ Shivani Swaraj loved to see you here!
 <img align="right" alt="GIF" src="assets/shinchan.gif" width="150" />
 
 - :computer: Currently Upto: No Good XP
-- :girl: Pronouns: she/her, they/them
+- :girl: Pronouns: she/her
 - :heart: Hobbies: Finearts, Design, Reading Fictions
 - :dart: Sources of Motivation: Curiosity and Creativity
 - :zap: Fun Fact(s): Beware of my Seventh Sense!
 <!-- ek quote bhi aayega -->
 
 
-## Tech Stack
+## Tech Stacks
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
